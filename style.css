@@ -3,3 +3,13 @@
         width: 50%;
     }
 }
+
+p.hide {
+    display: none;
+}
+
+mark {
+    font-weight: 800;
+    color: red;
+    background: yellow;
+}
